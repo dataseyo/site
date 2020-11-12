@@ -11,7 +11,6 @@ pickleshare==0.7.5
 prompt-toolkit==3.0.8
 Pygments==2.7.2
 python-dateutil==2.8.1
-pywin32==228
 PyYAML==5.3.1
 pyzmq==19.0.2
 six==1.15.0
