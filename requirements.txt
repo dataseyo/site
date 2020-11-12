@@ -15,5 +15,4 @@ PyYAML==5.3.1
 pyzmq==19.0.2
 six==1.15.0
 tornado==6.1
-traitlets==5.0.5
 wcwidth==0.2.5
